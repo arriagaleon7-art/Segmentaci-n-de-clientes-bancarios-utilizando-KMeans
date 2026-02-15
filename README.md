@@ -45,5 +45,3 @@ El análisis de perfil de los cluster arrojó lo siguiente:
 * **Cluster 2:** Es el grupo con la menor edad promedio y el mayor número de dependientes. Es el cluster más pequeño. **Perfil demográfico:** El estado civil de este segmento es desconocido se constituye en igual cantidad por hombres y mujeres.
 * **cluster 3:** Ingresos bajos y límites de crédito reducidos. A diferencia del cluster 0 este segmento tiene una inactividad ligeramente mayor y es el segundo segmento más numeroso. También tiene una utilización alta del crédito. **Perfil demográfico:** Compuesto mayoritariamente por mujeres solteras(99.87%) y divorciadas (0.013%)
 * **Cluster 4:** Segmento con el ingreso promedio más alto (\$92,827) y un límite de crédito generoso (\$13,460). Tienen una tasa de utilización baja y son los que menos trasacciones realizan. **Perfil demográfico:** Se compone mayoritariamente por hombres casados (86%) y divorciados (14%)
-
-Incluir en el repositorio además del README: Una carpeta con los datos, una carpeta con imágenes, la libreta, y una presentación sencillar en pdf.
